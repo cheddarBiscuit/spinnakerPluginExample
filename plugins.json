@@ -20,7 +20,7 @@
         "sha512sum": "411c97ee37d59bc583ab6a290ef4ca7f33dc4a07d49217b423ba243370f765c82f28a4c489d71e789cbb404baf47af0e15de93c00fe9fb4255d8372f0d720015",
         "preferred": false,
         "compatibility": [],
-        "url": ""
+        "url": "https://github.com/cheddarBiscuit/spinnakerPluginExample/releases/download/v0.0.2/spinnakerPluginExample-0.0.2.zip"
       }
     ]
   }
