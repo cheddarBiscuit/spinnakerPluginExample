@@ -12,6 +12,14 @@
         "preferred": false,
         "compatibility": [],
         "url": "https://github.com/link108/spinnakerPluginExample/releases/download/v0.0.31/spinnakerPluginExample-0.0.31.zip"
+      },
+      {
+        "version": "unspecified",
+        "date": "2023-06-13T18:50:10.009153Z",
+        "requires": "echo>=0.0.0,orca>=0.0.0,deck>=0.0.0",
+        "sha512sum": "411c97ee37d59bc583ab6a290ef4ca7f33dc4a07d49217b423ba243370f765c82f28a4c489d71e789cbb404baf47af0e15de93c00fe9fb4255d8372f0d720015",
+        "preferred": false,
+        "compatibility": []
       }
     ]
   }
